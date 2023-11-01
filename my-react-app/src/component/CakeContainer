@@ -1,0 +1,12 @@
+function CakeComponent(){
+    return(
+        <div>
+            <h2>
+                cace number: 10
+            </h2>
+            <button>
+                buy cake
+            </button>
+        </div>
+    )
+}
